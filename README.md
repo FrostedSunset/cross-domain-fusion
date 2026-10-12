@@ -11,6 +11,11 @@ This repository contains the official PyTorch implementation of our paper:
 >
 > The code is currently **not the final release version**. We are actively refining and optimizing the codebase. The final version with full documentation and pretrained models will be released upon paper acceptance.
 
+## 📝 Data Availability
+
+> 
+> All the processed data will be fully made public once the paper is accepted, so people can reproduce our results.
+> 
 ---
 
 ## 📝 Citation
